@@ -1,1 +1,1 @@
-# Plant_simulation
+# This is a simulation created of our solar system which currently displays the first four planets revolving around the sun. It was coded in Python in the Object-oriented programming style and used the knowledge of Pygame.
